@@ -1,1 +1,1 @@
-# diabete
+# Créaction d'un serveur MCP
